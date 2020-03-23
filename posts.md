@@ -114,12 +114,12 @@
     // Create multiple DOM elements with Joins: enter/update/exit
    ```
 
-   ## Shen -- Introduction to Data Visualization with d3.js V4 -- API Reference
+## Shen -- Introduction to Data Visualization with d3.js V4 -- API Reference
 
-   1. Selection and Data
-      SVG: the coordinate system for X and Y:
-        X: Left to right, it goes zero and increases for x;
-        Y: It goes zero and increases as it goes down the screen;
+1. Selection and Data<br>
+   SVG: the coordinate system for X and Y:<br>
+    X: Left to right, it goes zero and increases for x;<br>
+    Y: It goes zero and increases as it goes down the screen;<br>
 
         ```javascript
         //Basic example to understand coordinate system
