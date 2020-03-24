@@ -129,7 +129,7 @@
            .attr('x',(d,i)=>i * rectWidth)
            .attr('y',d =>height -d )
         ```
-   2. Enter-Append
-   3. 
+
+2. Enter-Append
    
 
