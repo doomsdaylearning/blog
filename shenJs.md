@@ -19,8 +19,9 @@ function userCreator(name,score){
     this.name = name;
     this.score = score;
 }
+
 //you can not add a new property to an existing object constructor
-//
+//Using the prototype property allows us to add new properties to object constructors
 userCreator.prototype.increment = function(){
     this.score++;
 }
