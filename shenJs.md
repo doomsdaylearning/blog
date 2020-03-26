@@ -35,7 +35,7 @@ const user1 = new userCreator("will",10)
 # [26 March 2020]
 ## Deep JS
 1. NaN is the only value that not equals to itself.
-2. Don't use <span color= "#00BFFF">new<span>:<br>
+2. Don't use <span style = "color: #00BFFF">new<span>:<br>
    a. String()<br>
    b. Number()<br>
    c. Boolean()
