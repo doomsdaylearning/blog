@@ -39,4 +39,19 @@ const user1 = new userCreator("will",10)
    a. String()<br>
    b. Number()<br>
    c. Boolean()
-3. 
+3. Understand the usage of if(!!expression)
+   ```javascript
+   if(!!last)
+   //explain: 
+   //if last: null or undefined => !last =true;
+   //!!last => false;
+   //therefore, !!last returns the real boolean
+   ```
+4. Coercion: corner cases
+   ```javascript
+   1 < 2 < 3  // true
+   3 > 2 > 1  //false
+   //explain:
+   // 1 < 2 => TRUE(1)
+   //1<3  TURE 
+   ```
