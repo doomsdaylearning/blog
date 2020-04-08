@@ -67,4 +67,16 @@ const user1 = new userCreator("will",10)
       "@vue/cli-service/portfinder": "1.0.21"
     }
     ```
-2. Nux.js
+2. Lifestyle hooks:
+   <li>  'beforeCreate'</li>
+   <li>'created'</li>
+   <li>'beforeMount'</li>
+   <li>'mounted'</li>
+   <li>'beforeUpdate'</li>
+   <li>'updated'</li>
+   <li>'beforeDestroy'</li>
+   <li>'destroyed'</li>
+   <li>'activated'</li>
+   <li>'deactivated'</li>
+   <li>'errorCaptured'<li>
+3. 
