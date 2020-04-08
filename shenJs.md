@@ -61,9 +61,10 @@ const user1 = new userCreator("will",10)
 ## Vue.js
 
 1. **Qeustion**: Vue npm run serve starts on random port <br>
-   **Solution**: open package.json file, add portfinders and run npm install afterwards.
+   **Solution**: open package.json file, add portfinders and run `npm install` afterwards.
    ```json
    "resolutions": {
       "@vue/cli-service/portfinder": "1.0.21"
     }
     ```
+2. Nux.js
