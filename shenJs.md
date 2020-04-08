@@ -68,15 +68,16 @@ const user1 = new userCreator("will",10)
     }
     ```
 2. Lifestyle hooks:
-   <li>  'beforeCreate'</li>
-   <li>'created'</li>
-   <li>'beforeMount'</li>
-   <li>'mounted'</li>
-   <li>'beforeUpdate'</li>
-   <li>'updated'</li>
-   <li>'beforeDestroy'</li>
-   <li>'destroyed'</li>
-   <li>'activated'</li>
-   <li>'deactivated'</li>
-   <li>'errorCaptured'<li>
+   1. 'beforeCreate'
+   2. 'created'
+   3. 'beforeMount'
+   4. 'mounted'
+   5. 'beforeUpdate'
+   6. 'updated'
+   7. 'beforeDestroy'
+   8. 'destroyed'
+   9. 'activated'
+   10. 'deactivated'
+   11. 'errorCaptured'
+  
 3. 
