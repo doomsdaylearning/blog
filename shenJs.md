@@ -55,3 +55,15 @@ const user1 = new userCreator("will",10)
    // 1 < 2 => TRUE(1)
    //1<3  TURE 
    ```
+
+# [08 April 2020]
+
+## Vue.js
+
+1. **Qeustion**: Vue npm run serve starts on random port <br>
+   **Solution**: open package.json file, add portfinders and run npm install afterwards.
+   ```json
+   "resolutions": {
+      "@vue/cli-service/portfinder": "1.0.21"
+    }
+    ```
